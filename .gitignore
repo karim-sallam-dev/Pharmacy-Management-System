@@ -1,0 +1,7 @@
+# Ignore MySQL Connector
+mysql-connector-j-9.0.0
+
+# IDE files
+.idea/
+*.iml
+out/
